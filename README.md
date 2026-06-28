@@ -8,6 +8,7 @@
 [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/aTAU7hBdaa)
 [![Tebex](https://img.shields.io/badge/Store-Tebex-FF6B6B?style=flat)](https://filo-studios.tebex.io)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I4N521Q2Q0)
 </div>
 
 ---
